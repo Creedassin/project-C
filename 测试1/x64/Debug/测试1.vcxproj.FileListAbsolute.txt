@@ -1,2 +1,4 @@
 F:\C++数据库项目实习\测试1\x64\Debug\测试1.exe
 F:\C++数据库项目实习\测试1\x64\Debug\测试1.pdb
+F:\C++数据库项目实习\测试1\project-C\测试1\x64\Debug\测试1.exe
+F:\C++数据库项目实习\测试1\project-C\测试1\x64\Debug\测试1.pdb
